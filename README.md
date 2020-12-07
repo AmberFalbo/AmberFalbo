@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :smiley_cat:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmberFalbo&show_icons=true&theme=radical">
