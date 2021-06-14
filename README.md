@@ -1,4 +1,7 @@
-### Hi there :smiley_cat:
+### Hi there :smiley_cat: and welcome to Amber Falbo's GitHub!
+
+## 😄 Pronouns: She/Her
+## 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmberFalbo&show_icons=true&theme=radical">
