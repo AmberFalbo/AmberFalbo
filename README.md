@@ -1,6 +1,6 @@
-### Hi there :smiley_cat: and welcome to Amber Falbo's GitHub!
+# Hi there :smiley_cat: and welcome to Amber Falbo's GitHub!
 
-## 😄 Pronouns: She/Her
+### 😄 Pronouns: She/Her
 ## 
 
 <p align="center">
