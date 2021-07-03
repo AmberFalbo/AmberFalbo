@@ -3,17 +3,15 @@
 ### 😄 Pronouns: She/Her
 
 <p>
-                        Hello! I'm a Software Developer with a robust customer service background and volunteer for nonprofits. I'm passionate not only about using code efficiently but also about teamwork. I have a background in management, culinary arts, and customer service that will help me to develop creative, customer-focused solutions.
-                        <br></br>
-                        
-                        I love helping in all aspects! Helping to inspire and watch others grow to meet their potential is a huge passion of mine that I can't wait to bring into this new arena.
-                        <br></br>
-                       
-                        I volunteer to feed the houseless every Sunday, visit animal sanctuaries to volunteer bi-monthly, take care of my four cats, and that all drives me so I can keep giving back. Helping others grow and connect to their passions is a magical thing to do for people.
-                        <br></br>
-                        
-                        Helping others and crafting success drives me.
-                        </p>
+Hello! I'm a Software Developer with a robust customer service background and volunteer for nonprofits. I'm passionate not only about using code efficiently but also about teamwork. I have a background in management, culinary arts, and customer service that will help me to develop creative, customer-focused solutions.
+
+I love helping in all aspects! Helping to inspire and watch others grow to meet their potential is a huge passion of mine that I can't wait to bring into this new arena.
+
+I volunteer to feed the houseless every Sunday, visit animal sanctuaries to volunteer bi-monthly, take care of my four cats, and that all drives me so I can keep giving back. Helping others grow and connect to their passions is a magical thing to do for people.
+
+  
+Helping others and crafting success drives me.
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmberFalbo&show_icons=true&theme=radical">
