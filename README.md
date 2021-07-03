@@ -13,6 +13,8 @@ I volunteer to feed the houseless every Sunday, visit animal sanctuaries to volu
 Helping others and crafting success drives me.
 </p>
 
+---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AmberFalbo&show_icons=true&theme=radical">
 </p>
