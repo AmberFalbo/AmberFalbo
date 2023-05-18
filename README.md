@@ -1,12 +1,23 @@
-# Hi there :smiley_cat: and welcome to Amber Falbo's GitHub!
+# 👋 Hello, I'm Amber! (She/They)
 
-### 😄 Pronouns: She/Her
+### 💻 Software Engineer | 🌍 Passionate Volunteer | 🍳 Culinary Enthusiast | 🕵️‍♂️ Detail-Oriented
 
 <p>
-Hello! I'm a Software Developer with a robust customer service background and volunteer for nonprofits. I'm passionate not only about using code efficiently but also about teamwork. I have a background in management, culinary arts, and customer service that will help me to develop creative, customer-focused solutions.
 
-  
-I love helping others and crafting, from code to culinary!
+
+Welcome to my GitHub profile! I am a dedicated software engineer with a passion for crafting innovative solutions and building impactful applications. With a solid background in customer service, I bring a unique perspective to my work, always striving to create user-centered experiences.
+
+Beyond the world of code, I have a profound love for volunteering and giving back to my community. I believe in the power of technology to make a positive difference, and I actively seek opportunities to leverage my skills for social good.
+
+Drawing from my experience in management, I bring strong leadership qualities and a keen eye for organizational efficiency to every project I undertake. I thrive in collaborative environments, where teamwork and communication are key to achieving exceptional results.
+
+In addition to my technical pursuits, I possess a background in culinary arts, which has instilled in me a deep appreciation for creativity, attention to detail, and the importance of delivering delightful experiences.
+
+On my GitHub, you'll find a collection of projects that showcase my skills in various programming languages and technologies. I am passionate about continuous learning, and I am always excited to take on new challenges that expand my knowledge and push the boundaries of what's possible.
+
+If you're interested in collaborating, have any questions, or simply want to connect, please feel free to reach out. I'm looking forward to engaging with fellow developers and creating meaningful contributions together.
+
+Happy coding! 🚀
 </p>
 
 ---
