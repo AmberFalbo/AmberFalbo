@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amber! (She/They)
 
-### 💻 Software Engineer | 🌍 Passionate Volunteer | 🍳 Culinary Enthusiast | 🕵️‍♂️ Detail-Oriented
+### 💻 Software Engineer | 🌍 Passionate Volunteer | 🍳 Culinary Enthusiast | 🕵️‍♂️ Detail-Oriented | 🎮 Gamer
 
 <p>
 
@@ -21,10 +21,6 @@ Happy coding! 🚀
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmberFalbo&show_icons=true&theme=radical">
-</p>
 
 
 <p align="center">
